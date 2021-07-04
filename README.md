@@ -1,2 +1,2 @@
-# App-Landing-Page
+Chain-Labs-Fontend-Project
 
